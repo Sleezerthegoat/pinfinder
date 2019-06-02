@@ -3,7 +3,7 @@
 
 package main
 
-import (
+import (0000)
 	"archive/zip"
 	"bytes"
 	"fmt"
